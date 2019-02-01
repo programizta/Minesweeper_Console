@@ -1,0 +1,9 @@
+UPDATE: Finalna konsolowa wersja gry Saper. Wszystkie metody ju¿ dzia³aj¹, gra siê dobrze inicjalizuje, przebiega oraz koñczy przy statycznie zadanych wartoœciach wymiarów planszy N i M przy dyrektywach #define.
+
+UPDATE 2: Wprowadzilem kilka mechanizmów zabezpieczaj¹cych przed wprowadzeniem literek, by siê program nie wysypywa³/zapêtla³. Dodatkowo pozmienia³em wszystkie nazwy zmiennych/metod/klas na jêzyk angielski, bo myœlê, ¿e tak bêdzie lepiej.
+
+UPDATE 3: Wprowadzi³em mo¿liwoœæ ponownej rozgrywki lub zakoñczenia dzia³ania programu po wygraniu/przegraniu.
+
+Z powa¿aniem,
+
+Piotr Ko³eczek
